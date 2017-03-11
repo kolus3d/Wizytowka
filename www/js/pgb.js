@@ -20,3 +20,8 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function userInfo(){
+	info='Konrad Luzarowski & Mateusz Burnetko'
+	navigator.notification.alert(info);
+}
